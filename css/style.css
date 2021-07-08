@@ -35,7 +35,7 @@
 }
 @media (min-width: 992px) {
     #form-container {
-        background: url(img/formbg.png);
+        background: url(../img/formbg.png);
         background-size: contain;
         background-position-x: right;
         background-repeat: no-repeat;
